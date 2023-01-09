@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto',sans-serif;
+
+}
+
+.nav-bar{
+    position:sticky;
+    top:0;
+    left:0;
+    background-color: #f5f5f5;
+    width: 100%;
+    z-index: 9;
+}
